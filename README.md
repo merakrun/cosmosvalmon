@@ -14,7 +14,7 @@ To sort from which proposer your validator misses the most blocks, use `cat /pat
 
 ![Sample Output](https://i.imgur.com/jk64zNk.png)
 
-To get the min/max/avg of how many validators are missing a validator's blocks, or the global average, use gaiadmonavg.sh.
+To get the min/max/avg of how many validators are missing a validator's blocks, or the global average, use `gaiadmonavg.sh`.
 
 Please consider delegating to our [Cosmos Validator](https://freshatoms.com/)
 
